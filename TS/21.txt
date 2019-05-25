@@ -1,0 +1,43 @@
+TS Parameters file
+Room EQ V5,20
+Dated: 06.03.2019 22:39:01
+From measurement 21
+
+Zmin	7.34	ohm
+fmin	569	Hz
+f3	2284	Hz
+Le(f3)	0.385	mH
+Motional impedance parameters
+RES	24.92	ohm
+LCES	5.291	mH
+CMES	206.0	uF
+RAMS	24916.907	mohm
+Blocked impedance parameters
+RDC	7.00	ohm
+dR	0.55	ohm
+Re	7.55	ohm
+Leb	0.0	uH
+Le	0.371	mH
+Rss	528.2	ohm
+Ke	0.1563	S-H
+Thiele-Small parameters
+fs	152.5	Hz
+Qms	2.352
+Qes	1.489
+Qts	0.912
+Fts	167.2
+Mms	5.14	g
+Cms	0.212	mm/N
+Rms	2.092	kg/s
+Vas	0.28	litres
+Bl	4.993	Tm
+Eta	0.07	%
+Lp (1W/1m)	80.29	dB
+Dd	6.23	cm
+Sd	30.5	cm^2
+Added mass	1.34	g
+Secondary measurement:	21 +m
+Air temperature	20.0	C
+Air pressure	1013.25	mB
+Air density	1.2041	kg/m^3
+Speed of sound	343.2	m/s
